@@ -6,3 +6,5 @@ Author:thenthuli
 3.last seen code
 4.attachments (image,audio,video) code
 5.hiding last seen 
+6.adding the audio call feature
+7.adding the video call feature
